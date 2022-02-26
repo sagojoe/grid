@@ -37,14 +37,14 @@ footer { grid-area: footer; }
 
 /* show… */
 body {
-  background: var(--dark-blue);
+  background: blue;
 }
 
 header,
 nav,
 main,
 footer {
-  background: var(--background);
+  background: blue;
   padding: 3em;
 }
 
